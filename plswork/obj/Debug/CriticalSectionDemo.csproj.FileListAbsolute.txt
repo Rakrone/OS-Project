@@ -1,0 +1,2 @@
+C:\Users\Rakrone\Desktop\dot-net-synchronization-master\obj\Debug\CriticalSectionDemo.csprojAssemblyReference.cache
+C:\Users\Rakrone\Desktop\dot-net-synchronization-master\obj\Debug\CriticalSectionDemo.csproj.CoreCompileInputs.cache

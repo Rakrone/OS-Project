@@ -1,0 +1,7 @@
+C:\Users\Rakrone\Desktop\plswork\project1\obj\Debug\project1.csprojAssemblyReference.cache
+C:\Users\Rakrone\Desktop\plswork\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\Rakrone\Desktop\plswork\project1\bin\Debug\CriticalSectionDemo.exe.config
+C:\Users\Rakrone\Desktop\plswork\project1\bin\Debug\CriticalSectionDemo.exe
+C:\Users\Rakrone\Desktop\plswork\project1\bin\Debug\CriticalSectionDemo.pdb
+C:\Users\Rakrone\Desktop\plswork\project1\obj\Debug\CriticalSectionDemo.exe
+C:\Users\Rakrone\Desktop\plswork\project1\obj\Debug\CriticalSectionDemo.pdb
